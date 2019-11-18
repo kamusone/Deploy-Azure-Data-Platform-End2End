@@ -11,3 +11,18 @@ Pipline:
 
 4	Visualize data from Azure SQL Data Warehouse using Power BI
 
+
+** : With Virtual machine : install Azure data studio ( like SSMS) to create an empty table with the same columns like an original table in DBB
+
+*new connection with server: mdwsqlvirtualserver-suffix.database.windows.net
+
+And install Power BI 
+
+** Create in azure storage : staging environment for Polybase before data can be copied to Azure SQL Data Warehouse.
+
+
+
+
+
+
+
